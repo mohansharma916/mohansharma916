@@ -1,4 +1,4 @@
-![mohansharma916](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![mohansharma916](https://gpvc.arturio.dev/[mohansharma916])
 
 - 👋 Hi, I’m @mohansharma916
 - 👀 I’m interested in Software Developemnt & AI
