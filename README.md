@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mohansharma916<br> 👀 I’m interested in Software Developemnt & AI<br>🌱 I’m currently learning React/Redux<br> 💞️ I’m looking to collaborate on React Project<br> 📫 How to reach me -- mail me : mohansharma916@gmail.com<br><br>
+👋 Hi, I’m @mohansharma916<br> 👀 I’m interested in Software Developemnt & AI<br>🌱 I’m currently learning React/Redux<br> 💞️ I’m looking to collaborate on React Project<br> 📫 How to reach me -- mail me : mohansharma916@gmail.com<br><br> 📫 Linkdin : https://www.linkedin.com/in/mohansharma916/<br><br>
 
 
 # 💻 Tech Stack:
