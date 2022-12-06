@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mohansharma916<br> 👀 I’m interested in Software Developemnt & AI<br>🌱 I’m currently working on React/Redux & Node Js<br> 💞️ I’m looking to collaborate on React & Node Project<br> 📫 How to reach me -- mail me : mohansharma916@gmail.com<br> 📫 Linkdin : https://www.linkedin.com/in/mohansharma916/<br><br>
+👋 Hi, I’m @mohansharma916<br> 👀 I’m interested in Software Developemnt & AI<br>🌱 I’m currently working on Nest.JS<br> 💞️ I’m looking to collaborate on React & Node Project<br> 📫 How to reach me -- mail me : mohansharma916@gmail.com<br> 📫 Linkdin : https://www.linkedin.com/in/mohansharma916/<br><br>
 
 
 # 💻 Tech Stack:
